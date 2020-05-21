@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM\MVVM.csproj", "{E9C71268-85B3-4ABF-8E63-99E92424D602}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0004B63C-0421-4F34-AE04-86F9557DD45D}"
+	ProjectSection(SolutionItems) = preProject
+		MVVM\Destinations.json = MVVM\Destinations.json
+		MVVM\Goods.json = MVVM\Goods.json
+		MVVM\Transports.json = MVVM\Transports.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C71268-85B3-4ABF-8E63-99E92424D602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C71268-85B3-4ABF-8E63-99E92424D602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C71268-85B3-4ABF-8E63-99E92424D602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C71268-85B3-4ABF-8E63-99E92424D602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35556E91-7C2B-44AC-8AD8-E920B0D70985}
+	EndGlobalSection
+EndGlobal

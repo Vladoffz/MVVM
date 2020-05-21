@@ -1,0 +1,10 @@
+C:\Users\vladg\source\repos\MVVM\Unit\obj\Debug\Unit.csprojAssemblyReference.cache
+C:\Users\vladg\source\repos\MVVM\Unit\obj\Debug\Unit.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\MVVM\Unit\bin\Debug\Unit.exe.config
+C:\Users\vladg\source\repos\MVVM\Unit\bin\Debug\Unit.exe
+C:\Users\vladg\source\repos\MVVM\Unit\bin\Debug\Unit.pdb
+C:\Users\vladg\source\repos\MVVM\Unit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladg\source\repos\MVVM\Unit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vladg\source\repos\MVVM\Unit\obj\Debug\Unit.csproj.CopyComplete
+C:\Users\vladg\source\repos\MVVM\Unit\obj\Debug\Unit.exe
+C:\Users\vladg\source\repos\MVVM\Unit\obj\Debug\Unit.pdb
